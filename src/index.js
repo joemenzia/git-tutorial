@@ -1,0 +1,1 @@
+config.log('test 1')
